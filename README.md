@@ -21,9 +21,8 @@ This project analyzes IPL data using Power BI.
 - Excel/CSV Dataset
 
 ## Dashboard Screenshots
-
 ### Dashboard 1 - IPL Overview
-![Overview](screenshots/dashboard1.png)
+![Overview](dashboard1.png)
 
 ### Dashboard 2 - Player Analysis
-![Player Analysis](screenshots/dashboard2.png)
+![Player Analysis](dashboard2.png)
